@@ -1,2 +1,12 @@
 # get_next_line
-project: code getnextline function
+Code getnextline function
+
+Objectives
+  - File descriptors
+  - Buffering
+  - Basic parsing
+  
+Skills
+  - Imperative programming
+  - Algorithms & AI
+  - Rigor
